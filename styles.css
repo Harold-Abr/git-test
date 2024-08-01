@@ -1,0 +1,51 @@
+body {
+  background-color: #d5e1ef;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.qr-card {
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+  padding: 20px;
+}
+
+.qr-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.text-container {
+  margin-top: 20px;
+}
+
+.text-container h1 {
+  font-size: 18px;
+  color: #1f314f;
+}
+
+.text-container p {
+  color: #7b879d;
+  font-size: 14px;
+}
+
+.ref {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: small;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.logo{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  
+}
